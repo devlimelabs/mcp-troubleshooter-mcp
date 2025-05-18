@@ -4,6 +4,10 @@
 
 A self-diagnostic framework for AI models that enables them to diagnose and fix MCP-related issues.
 
+<a href="https://glama.ai/mcp/servers/@devlimelabs/mcp-troubleshooter-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@devlimelabs/mcp-troubleshooter-mcp/badge" alt="Troubleshooter MCP server" />
+</a>
+
 ## Architecture
 
 ```mermaid
